@@ -16,8 +16,8 @@
 global { }
 var { }
 
-define printf(s) {
-    msg s;
+define printf(str) {
+    msg str;
 }
 
 //define scanf(contents) {
