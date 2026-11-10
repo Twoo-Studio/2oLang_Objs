@@ -20,10 +20,6 @@ define printf(s) {
     msg s;
 }
 
-define scanf(contents) {
-    input contents;
-    
-    while (true) {
-        input = contents;
-    }
-}
+//define scanf(contents) {
+//    input contents;
+//}
