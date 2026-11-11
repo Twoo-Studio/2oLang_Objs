@@ -20,6 +20,6 @@ define printf(str) {
     msg str;
 }
 
-//define scanf(contents) {
-//    input contents;
-//}
+define scanf(contents) {
+    input contents;
+}
